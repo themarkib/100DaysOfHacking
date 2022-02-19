@@ -109,4 +109,9 @@ Feb 13 missed
 - [x] Tryhackme: SSRF(https://tryhackme.com/room/ssrfqi)
 - [x] Pentesterlab: Essential Badge(Server Side Template Injection labs)
 
+### Day 22: Feb 19, 2022
+
+- [x] Tryhackme: Cross-Site Scripting(https://tryhackme.com/room/xssgi)
+- [x] Portswigger: Exploiting XXE using external entities to retrieve files(https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files)
+
 ## Follow me on [Twitter](https://twitter.com/themarkib)
