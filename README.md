@@ -114,4 +114,9 @@ Feb 13 missed
 - [x] Tryhackme: Cross-Site Scripting(https://tryhackme.com/room/xssgi)
 - [x] Portswigger: Exploiting XXE using external entities to retrieve files(https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files)
 
+### Day 23: Feb 20, 2022
+
+- [x] Tryhackme : OSI Model( https://tryhackme.com/room/osimodelzi)
+- [x] Tryhackme : Extending Your Network(https://tryhackme.com/room/extendingyournetwork)
+
 ## Follow me on [Twitter](https://twitter.com/themarkib)
